@@ -42,8 +42,8 @@ Vorbereitungsphase für Agentic Coding mit Claude Code.
 
 ## Von HIL-PROMPT zu Agentic Coding
 
-> Vibe Coding ohne HIL-PROMPT & Kontrolle = Glücksspiel.  
-> Vibe Coding mit HIL-PROMPT & Kontrolle = Agentic Coding.
+> **Vibe Coding ohne HIL-PROMPT & Kontrolle = Glücksspiel.**  
+> **Vibe Coding mit HIL-PROMPT & Kontrolle = Agentic Coding.**
 
 ![Agentic Coding Workflow](diagramme/agentic_coding_workflow.png)
 
