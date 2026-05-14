@@ -5,6 +5,7 @@
 **Datum:** Mai 2026  
 **Lizenz:** CC BY 4.0
 
+![HIL-PROMPT Workflow](diagramme/hil_prompt_workflow.png)
 
 ## 1. Titel des Workflows
 
@@ -390,5 +391,9 @@ Aktueller Stand:
 ```
 
 ---
+
+# Diagramm einer ausgezeichneten Workflow-Anwendung: **Agentic Coding für Claude Code**  
+
+![HIL-PROMPT Workflow](diagramme/agentic_coding_workflow.png)
 
 *Ende HIL-PROMPT v1.0*
