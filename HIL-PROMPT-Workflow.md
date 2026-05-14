@@ -327,8 +327,8 @@ Ich habe seit deinem letzten Gesamtblick die folgenden Änderungen
 eingepflegt: <Kurzliste der Änderungen #N bis #M>.
 
 Hier ist die aktuelle vollständige Version:
-```
-<Dateiinhalt>
+
+[--- Hier den vollständigen Dateiinhalt einfügen ---]
 ```
 
 Prüfe auf:
@@ -364,8 +364,7 @@ Ausgabeformat: siehe HIL-PROMPT Abschnitt 6.2.
 
 Artefaktinhalt:
 ```
-<Datei>
-```
+[--- Hier den vollständigen Dateiinhalt einfügen ---]
 ```
 
 ### 9.6 Prompt für die Endabnahme (P4)
@@ -386,10 +385,7 @@ Keine Neuausgabe der Datei.
 
 Aktueller Stand:
 ```
-<Datei>
-```
-```
-```
+[--- Hier den vollständigen Dateiinhalt einfügen ---]
 ---
 
 # Diagramm einer ausgezeichneten Workflow-Anwendung: **Agentic Coding für Claude Code**  
