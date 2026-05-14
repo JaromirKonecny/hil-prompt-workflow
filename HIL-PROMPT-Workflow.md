@@ -389,7 +389,7 @@ Aktueller Stand:
 <Datei>
 ```
 ```
-
+```
 ---
 
 # Diagramm einer ausgezeichneten Workflow-Anwendung: **Agentic Coding für Claude Code**  
