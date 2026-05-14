@@ -11,7 +11,7 @@ Modell-Rollen (PromptPolierer → Hauptarchitekt → externer Auditor)
 in produktionsreife Artefakte überführt — mit menschlicher 
 Kontrolle in jeder Phase.
 
-![HIL-PROMPT Workflow](diagramme/hil-prompt-workflow.png)
+![HIL-PROMPT Workflow](diagramme/hil_prompt_workflow.png)
 
 ## Was ist das?
 Der Workflow ist auf Claude Code zugeschnitten, aber die Methode 
@@ -45,7 +45,7 @@ Vorbereitungsphase für Agentic Coding mit Claude Code.
 > Vibe Coding ohne HIL-PROMPT & Kontrolle = Glücksspiel.  
 > Vibe Coding mit HIL-PROMPT & Kontrolle = Agentic Coding.
 
-![Agentic Coding Workflow](diagramme/agentic-coding-workflow.png)
+![Agentic Coding Workflow](diagramme/agentic_coding_workflow.png)
 
 ## Inhalt
 
