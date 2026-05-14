@@ -394,6 +394,6 @@ Aktueller Stand:
 
 # Diagramm einer ausgezeichneten Workflow-Anwendung: **Agentic Coding für Claude Code**  
 
-![HIL-PROMPT Workflow](diagramme/agentic_coding_workflow.png)
+![Agentic Coding Workflow](diagramme/agentic_coding_workflow.png)
 
 *Ende HIL-PROMPT v1.0*
